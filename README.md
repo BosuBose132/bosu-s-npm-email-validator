@@ -1,0 +1,1 @@
+# bosu-s-npm-email-validator
